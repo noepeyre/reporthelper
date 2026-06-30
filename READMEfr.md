@@ -4,7 +4,7 @@ Report Helper est un petit outil Python pour Windows controle avec des raccourci
 
 ## Demarrage Rapide
 
-Pour un guide d'installation complet, consultez [INSTALLfr.md](INSTALLfr.md). La version anglaise est disponible dans [INSTALL.md](INSTALL.md).
+Pour un guide d'installation complet, consultez [INSTALLfr.md](INSTALLfr.md).
 
 ```powershell
 python -m venv .venv
