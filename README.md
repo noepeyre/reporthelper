@@ -1,12 +1,11 @@
 # Report Helper
+French version is available [here](READMEfr.md).
 
 Report Helper is a small Windows Python tool controlled with global hotkeys. It automates a repeated three-click workflow in a graphical application by using layout reference files.
 
-French README: [READMEfr.md](READMEfr.md).
-
 ## Quick Start
 
-For a complete setup guide, see [INSTALL.md](INSTALL.md). A French version is available in [INSTALLfr.md](INSTALLfr.md).
+For a complete setup guide, see [INSTALL.md](INSTALL.md).
 
 ```powershell
 python -m venv .venv
